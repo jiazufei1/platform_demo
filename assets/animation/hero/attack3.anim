@@ -1,0 +1,109 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "attack3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6b18adf3-0419-4e8c-a3aa-faa824376e67"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "9b59fa74-0d38-4d0e-abfe-935ff93d544e"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "6a6bc61c-4b12-474a-9721-c36b253c3f51"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "283345bc-1bea-4120-b0a9-7cc43e4f2fcb"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "7ffbd281-180e-4a00-84ca-9a65ba2dfa89"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ebe65fce-551d-4358-9e9c-81f28a24702e"
+            }
+          }
+        ]
+      },
+      "cc.BoxCollider": {
+        "offset": [
+          {
+            "frame": 0.1,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 0.1,
+              "y": 11.5
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 0,
+              "y": 0
+            }
+          }
+        ],
+        "size": [
+          {
+            "frame": 0.1,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 0,
+              "height": 0
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 47.8,
+              "height": 23.1
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 0,
+              "height": 0
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
