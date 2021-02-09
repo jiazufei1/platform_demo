@@ -45,7 +45,7 @@ export default class NewClass extends cc.Component {
         this.heroState = State.stand
 
         this.anima = 'idle'
-        this.heroAni = this.node.getComponent(cc.Animation)
+        this.heroAni = this.node.getChildByName('body').getComponent(cc.Animation)
 
         this.rb = this.node.getComponent(cc.RigidBody)
 
